@@ -1,2 +1,1 @@
-# tk_primer
-Primer za Tkinter
+# Primer za Tkinter
